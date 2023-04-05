@@ -1,5 +1,11 @@
 #### Training project from Yandex Practicum (INO СPE «Yandex EdTEch»), Data Scientist specialist 
+- Training project from Yandex Practicum (INO СPE «Yandex EdTEch»), Data Scientist specialist
+#### Training task
+
+#### Main tools 
 - Jupiter notebook, Python and Markdown
+- Markdown notes on Russian
+####  Machine Learning tools  
 - ML models LinearRegression, DecisionTreeRegressor, RandomForestRegressor, CatBoostRegressor, StandardScaler, ltb
 - ML metrics accuracy_score, mean_squared_error
 
