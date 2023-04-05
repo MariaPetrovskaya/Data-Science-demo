@@ -1,3 +1,16 @@
+#### Training project from Yandex Practicum (INO СPE «Yandex EdTEch») DS programm 
+- Jupiter notebook, Python and Markdown
+- ML models LinearRegression, DecisionTreeRegressor, RandomForestRegressor, CatBoostRegressor, StandardScaler, ltb
+- ML metrics accuracy_score, mean_squared_error
+
+
+
+
+
+
+
+
+
 # Это заголовок первого уровня
 ## Это заголовок второго уровня
 ### Это заголовок третьего уровня
