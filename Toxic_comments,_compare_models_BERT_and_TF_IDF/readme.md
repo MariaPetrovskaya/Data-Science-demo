@@ -17,6 +17,7 @@
 - ML metrics accuracy_score, f1_score
 #### Conclusions
 - The project is completed
-- Different  text features Machine learning models were trained and compared, the model with the best metric was selected
+- Different Count-Based Ebbedding and Transformers Methods for features extraction were compared
+- Machine learning models were trained and compared, the model with the best metric was selected
 - The selected Machine learning model was tested on a test dataset
 - Required metric was reached 
