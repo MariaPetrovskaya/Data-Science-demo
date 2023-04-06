@@ -15,6 +15,6 @@
 - ML metrics r2_score
 #### Conclusions
 - The project is completed
-- Different Machine learning models were trained and compared, the model with the best metric was selected
-- The selected Machine learning model was tested on a test dataset
-- Required metric was reached 
+- The applicability of matriх for data encryption was verified
+- An algorithm for data transformation was created
+- Required R2 metric was reached for the data before and after the transformation 
