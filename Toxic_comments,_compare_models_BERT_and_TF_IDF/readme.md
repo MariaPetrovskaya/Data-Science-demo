@@ -13,8 +13,8 @@
 ####  Machine Learning tools  
 - ML models GridSearchCV, LogisticRegression,RandomForestClassifier, DecisionTreeClassifier, LGBMClassifier
 - Transformers: BertTokenizer ("unitary/toxic-bert"), AutoModel, AutoTokenizer
-- For other text extraction: TfidfVectorizer, 
-- ML metrics accuracy_score, mean_squared_error
+- For other text extraction: TfidfVectorizer, WordNetLemmatizer
+- ML metrics accuracy_score, f1_score
 #### Conclusions
 - The project is completed
 - Different Machine learning models were trained and compared, the model with the best metric was selected
