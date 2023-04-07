@@ -5,7 +5,6 @@
 #### Description of the project
 - Dataset: from the Yandex Real Estate service - an archive of ads for several years about the sale of real estate in St. Petersburg's area
 - Task: identify the features and dependencies in the real estate market  
-- For customer was important: model studying speed, model prediction speed, quality of prediction
 - Dataset with numeric and text features, missing data
 #### Main tools 
 - Jupiter notebook, Python and Markdown
